@@ -1,7 +1,8 @@
 ## Olá! Eu sou o Felipe
 
-<!-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+💻 - Cursando o 2° Módulo de Análise e Desenvolvimento de Sistemas
+🌐 - Estudando para me tornar um Dev fullstack
+
 
 
 <div>
