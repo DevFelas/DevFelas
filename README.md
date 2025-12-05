@@ -3,13 +3,6 @@
 💻 - Cursando o 2° Módulo de Análise e Desenvolvimento de Sistemas <br>
 🌐 - Estudando para me tornar um Dev fullstack
 
-
-## Estatísticas
-<div>
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=DevFelas&theme=nightowl&show_icons=true&hide_border=true&count_private=true"> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevFelas&theme=nightowl&show_icons=true&hide_border=true&layout=compact">
-</div>
-
 <!-- 
 ## Skills
 
