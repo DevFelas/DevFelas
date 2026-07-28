@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Felipe
 
-💻 - Cursando o 2° Módulo de Análise e Desenvolvimento de Sistemas <br>
+💻 - Cursando o 3° Módulo de Análise e Desenvolvimento de Sistemas <br>
 🌐 - Estudando para me tornar um Dev fullstack
 
 <!-- 
